@@ -1,0 +1,5 @@
+﻿  Game.cpp
+c:\users\rachel\source\repos\lcr\lcr\game.cpp(52): warning C4018: '<=': signed/unsigned mismatch
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LCR.vcxproj -> C:\Users\Rachel\source\repos\LCR\Debug\LCR.exe

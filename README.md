@@ -1,4 +1,4 @@
-# LCR - Left Right Center game
+# LCR - Left Center Right game
 CS Capstone
 <br>
 Console app.
